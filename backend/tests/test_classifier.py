@@ -1,5 +1,6 @@
 """Unit tests for deterministic lab classification engine."""
 import pytest
+# pyrefly: ignore [missing-import]
 from pydantic import ValidationError
 from app.models.schemas import LabInput
 from app.services.classifier import DeterministicClassifier
