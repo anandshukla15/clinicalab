@@ -1,0 +1,13 @@
+test_name,value,unit
+Hemoglobin,11.2,g/dL
+Glucose,126,mg/dL
+Potassium,5.3,mmol/L
+Platelets,125000,cells/uL
+Sodium,131,mmol/L
+Creatinine,1.6,mg/dL
+WBC,12800,cells/uL
+Calcium,10.8,mg/dL
+BUN,28,mg/dL
+ALT,75,U/L
+AST,60,U/L
+Bilirubin,1.8,mg/dL
